@@ -117,10 +117,10 @@ This project involves analyzing stock data using Python and the `yfinance` libra
 In this project, we successfully analyzed stock data, developed a simple moving average crossover strategy, and implemented risk management techniques like maximum drawdown calculation and a stop-loss mechanism. The project demonstrates the use of Python in stock market analysis and strategy development.
 
 ## Requirements
-`Python` 3.x
-`yfinance` library
-`pandas` library
-`matplotlib` library
+-   `Python` 3.x
+-   `yfinance` library
+-   `pandas` library
+-   `matplotlib` library
 
 
 
